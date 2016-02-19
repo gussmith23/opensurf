@@ -12,7 +12,7 @@
 #ifndef SURF_H
 #define SURF_H
 
-#include <opencv.hpp>
+#include <opencv2\opencv.hpp>
 #include <opencv2\core\types_c.h>
 #include "ipoint.h"
 #include "integral.h"

@@ -12,7 +12,7 @@
 #ifndef UTILS_H
 #define UTILS_H
 
-#include <opencv.hpp>
+#include <opencv2\opencv.hpp>
 #include "ipoint.h"
 
 #include <vector>
