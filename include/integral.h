@@ -23,7 +23,7 @@
   #undef max
 #endif
 
-#include <opencv.hpp>
+#include <opencv2\opencv.hpp>
 
 //! Computes the integral image of image img.  Assumes source image to be a 
 //! 32-bit floating point.  Returns IplImage in 32-bit float form.
